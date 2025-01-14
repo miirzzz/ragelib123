@@ -1,0 +1,35 @@
+﻿using System;
+
+namespace RageLib.GTA5.PSO
+{
+	// Token: 0x0200021A RID: 538
+	public enum Unk_544262540
+	{
+		// Token: 0x04003B0C RID: 15116
+		Unk_52583446,
+		// Token: 0x04003B0D RID: 15117
+		Unk_2253400966,
+		// Token: 0x04003B0E RID: 15118
+		Unk_4012089111,
+		// Token: 0x04003B0F RID: 15119
+		Unk_2477037232,
+		// Token: 0x04003B10 RID: 15120
+		Unk_437487559,
+		// Token: 0x04003B11 RID: 15121
+		Unk_730308174,
+		// Token: 0x04003B12 RID: 15122
+		Unk_3129410619,
+		// Token: 0x04003B13 RID: 15123
+		Unk_1762671403,
+		// Token: 0x04003B14 RID: 15124
+		Unk_2615326998,
+		// Token: 0x04003B15 RID: 15125
+		Unk_4157715503,
+		// Token: 0x04003B16 RID: 15126
+		Unk_2969646890,
+		// Token: 0x04003B17 RID: 15127
+		Unk_1645071976,
+		// Token: 0x04003B18 RID: 15128
+		Unk_1358390657
+	}
+}

@@ -1,0 +1,37 @@
+﻿using System;
+
+namespace RageLib.GTA5.PSO
+{
+	// Token: 0x02000256 RID: 598
+	public enum Unk_884254308
+	{
+		// Token: 0x04003EE5 RID: 16101
+		PV_COMP_INVALID = -1,
+		// Token: 0x04003EE6 RID: 16102
+		PV_COMP_HEAD,
+		// Token: 0x04003EE7 RID: 16103
+		PV_COMP_BERD,
+		// Token: 0x04003EE8 RID: 16104
+		PV_COMP_HAIR,
+		// Token: 0x04003EE9 RID: 16105
+		PV_COMP_UPPR,
+		// Token: 0x04003EEA RID: 16106
+		PV_COMP_LOWR,
+		// Token: 0x04003EEB RID: 16107
+		PV_COMP_HAND,
+		// Token: 0x04003EEC RID: 16108
+		PV_COMP_FEET,
+		// Token: 0x04003EED RID: 16109
+		PV_COMP_TEEF,
+		// Token: 0x04003EEE RID: 16110
+		PV_COMP_ACCS,
+		// Token: 0x04003EEF RID: 16111
+		PV_COMP_TASK,
+		// Token: 0x04003EF0 RID: 16112
+		PV_COMP_DECL,
+		// Token: 0x04003EF1 RID: 16113
+		PV_COMP_JBIB,
+		// Token: 0x04003EF2 RID: 16114
+		PV_COMP_MAX
+	}
+}

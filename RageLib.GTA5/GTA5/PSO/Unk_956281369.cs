@@ -1,0 +1,21 @@
+﻿using System;
+
+namespace RageLib.GTA5.PSO
+{
+	// Token: 0x0200023C RID: 572
+	public enum Unk_956281369
+	{
+		// Token: 0x04003DFF RID: 15871
+		PROCOBJ_ALIGN_OBJ,
+		// Token: 0x04003E00 RID: 15872
+		Unk_2886679239,
+		// Token: 0x04003E01 RID: 15873
+		PROCOBJ_USE_SEED,
+		// Token: 0x04003E02 RID: 15874
+		PROCOBJ_IS_FLOATING,
+		// Token: 0x04003E03 RID: 15875
+		PROCOBJ_CAST_SHADOW,
+		// Token: 0x04003E04 RID: 15876
+		PROCOBJ_NETWORK_GAME
+	}
+}
